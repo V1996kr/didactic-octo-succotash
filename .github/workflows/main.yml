@@ -1,4 +1,4 @@
-            - name: Setup Java JDK
+            - name: https://github.com/V1996kr/didactic-octo-succotash/tree/V1996kr-patch-1/.github
   uses: actions/setup-java@v4.2.1
   with:
     # The Java version to set up. Takes a whole or semver Java version. See examples of supported syntax in README file
